@@ -1,0 +1,5 @@
+numpy==1.26.3
+open-clip-torch==2.24.0
+pandas==2.2.0
+torch==2.2.0
+scikit-learn==1.4.0
