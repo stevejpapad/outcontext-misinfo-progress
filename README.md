@@ -20,7 +20,7 @@ If you want to reproduce the experiments of the paper, it is necessary to first 
 - VisualNews -> https://github.com/FuxiaoLiu/VisualNews-Repository -> `VisualNews/`
 - NewsCLIPings -> https://github.com/g-luo/news_clippings -> `news_clippings/`
 - NewsCLIPings evidence -> https://github.com/S-Abdelnabi/OoC-multi-modal-fc -> `news_clippings/queries_dataset/`
-- VERITE and VERITE evidence -> https://github.com/stevejpapad/image-text-verification -> `VERITE/` 
+- VERITE and VERITE evidence -> https://github.com/stevejpapad/relevant-evidence-detection -> `VERITE/` 
 
 If you encounter any problems while downloading and preparing VERITE (e.g., broken image URLs), please contact stefpapad@iti.gr
 
