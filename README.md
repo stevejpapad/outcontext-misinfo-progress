@@ -28,6 +28,17 @@ If you encounter any problems while downloading and preparing VERITE (e.g., brok
 To prepare the datasets, extract CLIP features and reproduce all experiments run: 
 ```python src/main.py``` 
 
+## Citation
+If you find our work useful, cite:
+```
+@article{papadopoulos2024similarity,
+  title={Similarity over Factuality: Are we making progress on multimodal out-of-context misinformation detection?},
+  author={Papadopoulos, Stefanos-Iordanis and Koutlis, Christos and Papadopoulos, Symeon and Petrantonakis, Panagiotis C},
+  journal={arXiv preprint arXiv:2407.13488},
+  year={2024}
+}
+```
+
 ## Acknowledgements
 This work is partially funded by the project "vera.ai: VERification Assisted by Artificial Intelligence" under grant agreement no. 101070093.
 
