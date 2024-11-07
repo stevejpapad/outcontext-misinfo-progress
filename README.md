@@ -40,7 +40,7 @@ If you find our work useful, cite:
 ```
 
 ## Acknowledgements
-This work is partially funded by the project "vera.ai: VERification Assisted by Artificial Intelligence" under grant agreement no. 101070093.
+This work is partially funded by the project "vera.ai: VERification Assisted by Artificial Intelligence" under grant agreement no. 101070093 and DisAI under grant agreement no. 101079164.
 
 ## Licence
 This project is licensed under the Apache License 2.0 - see the [LICENSE]([https://github.com/stevejpapad/relevant-evidence-detection/blob/main/LICENSE](https://github.com/stevejpapad/outcontext-misinfo-progress/blob/main/LICENSE)) file for more details.
